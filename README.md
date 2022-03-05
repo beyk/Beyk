@@ -1,7 +1,8 @@
 ### Hi there, I am Beyk👋
 <img align='right' src="./banner.png" width="500">
 
-- 🔭 I’m currently training to become a full-stack software developer at [Microverse inc](https://www.microverse.org/)
+- 🔭 I’m currently training to become a 
+full-stack software developer at [Microverse inc](https://www.microverse.org/)
 - 🌱 I’m current sharpening my JavaScript skills
 - 😄 Funfat: I love working out and self-development books at my free time. 
 - 📫 Reach me here: beykmail@gmail.com
